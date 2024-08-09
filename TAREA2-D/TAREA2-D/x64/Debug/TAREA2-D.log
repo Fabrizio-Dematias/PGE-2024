@@ -1,0 +1,5 @@
+﻿  Vehiculo.cpp
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\TAREA2-D\TAREA2-D\Vehiculo.cpp(6,74): error C3872: '0xb1': este carácter no se permite en un identificador
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\TAREA2-D\TAREA2-D\Vehiculo.cpp(6,74): error C2614: 'Vehiculo': inicialización de miembro no válida: 'aÃ±o' no es una base o miembro
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\TAREA2-D\TAREA2-D\Vehiculo.cpp(11,26): error C3872: '0xb1': este carácter no se permite en un identificador
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\TAREA2-D\TAREA2-D\Vehiculo.cpp(11,26): error C2065: 'aÃ±o': identificador no declarado

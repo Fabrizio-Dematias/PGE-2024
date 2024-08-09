@@ -1,0 +1,3 @@
+﻿  Bancaria.cpp
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\TAREA2-B\TAREA2-B\Bancaria.h(72,24): warning C4244: '+=': conversión de 'double' a 'int'; posible pérdida de datos
+  TAREA2-B.vcxproj -> C:\Users\fabri\OneDrive\Escritorio\PGE-2024\TAREA2-B\x64\Debug\TAREA2-B.exe

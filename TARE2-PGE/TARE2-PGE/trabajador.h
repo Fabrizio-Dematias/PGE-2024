@@ -3,6 +3,7 @@
 
 #include <iostream>
 #include "personal.h"
+
 using namespace std;
 
 class Trabajador {

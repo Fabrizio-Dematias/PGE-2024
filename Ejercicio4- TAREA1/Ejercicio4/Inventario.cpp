@@ -1,16 +1,23 @@
 #include "Inventario.h"
 #include <iostream>
+#include <vector>
 
 using namespace std;
 
+void Inventario::setCallback(void (*cb)(const string&)) {
+    callback = cb;
+}
+
 void Inventario::agregarProducto(const Producto& producto) {
     productos.push_back(producto);
+    if (callback) callback("Producto agregado: " + producto.getNombre());
 }
 
 void Inventario::eliminarProducto(const string& nombre) {
     for (auto it = productos.begin(); it != productos.end(); ++it) {
         if (it->getNombre() == nombre) {
             productos.erase(it);
+            if (callback) callback("Producto eliminado: " + nombre);
             break;
         }
     }
@@ -21,6 +28,7 @@ void Inventario::actualizarProducto(const string& nombre, int cantidad, double p
         if (producto.getNombre() == nombre) {
             producto.setCantidadDisponible(cantidad);
             producto.setPrecio(precio);
+            if (callback) callback("Producto actualizado: " + nombre);
             break;
         }
     }

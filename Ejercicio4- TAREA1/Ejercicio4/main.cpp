@@ -12,8 +12,15 @@ void mostrarMenu() {
     cout << "5. Salir\n";
     cout << "Seleccione una opcion: ";
 }
+
+void miCallback(const string& mensaje) {
+    cout << "Callback: " << mensaje << endl;
+}
+
 int main() {
     Inventario inventario;
+    inventario.setCallback(miCallback);
+
     int opcion;
     string nombre;
     int cantidad;
@@ -35,7 +42,6 @@ int main() {
             inventario.agregarProducto(Producto(nombre, cantidad, precio));
             cout << "Producto agregado.\n";
             break;
-            system("cls");
 
         case 2:
             cout << "Ingrese el nombre del producto a eliminar: ";
@@ -43,7 +49,6 @@ int main() {
             inventario.eliminarProducto(nombre);
             cout << "Producto eliminado.\n";
             break;
-            system("cls");
 
         case 3:
             cout << "Ingrese el nombre del producto a actualizar: ";
@@ -55,7 +60,6 @@ int main() {
             inventario.actualizarProducto(nombre, cantidad, precio);
             cout << "Producto actualizado.\n";
             break;
-            system("cls");
 
         case 4:
             inventario.mostrarInventario();

@@ -76,3 +76,5 @@ int main() {
 
     return 0;
 }
+
+// en la tarea 4 se implementa la funcion agregarproductos y muestra por pantalla si hay disponibilidad o esta agotado

@@ -23,12 +23,14 @@ void Inventario::eliminarProducto(const string& nombre) {
     }
 }
 
+// implementacion para la tarea 4
 void Inventario::actualizarProducto(const string& nombre, int cantidad, double precio) {
     for (auto& producto : productos) {
         if (producto.getNombre() == nombre) {
             producto.setCantidadDisponible(cantidad);
             producto.setPrecio(precio);
             if (callback) callback("Producto actualizado: " + nombre);
+            if (cantidad == 0 && callback) callback("Producto agotado: " + nombre);
             break;
         }
     }

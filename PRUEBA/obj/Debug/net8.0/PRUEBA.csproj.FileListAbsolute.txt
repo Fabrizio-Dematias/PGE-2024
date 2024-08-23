@@ -1,0 +1,15 @@
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\PRUEBA\bin\Debug\net8.0\PRUEBA.exe
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\PRUEBA\bin\Debug\net8.0\PRUEBA.deps.json
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\PRUEBA\bin\Debug\net8.0\PRUEBA.runtimeconfig.json
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\PRUEBA\bin\Debug\net8.0\PRUEBA.dll
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\PRUEBA\bin\Debug\net8.0\PRUEBA.pdb
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\PRUEBA\obj\Debug\net8.0\PRUEBA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\PRUEBA\obj\Debug\net8.0\PRUEBA.AssemblyInfoInputs.cache
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\PRUEBA\obj\Debug\net8.0\PRUEBA.AssemblyInfo.cs
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\PRUEBA\obj\Debug\net8.0\PRUEBA.csproj.CoreCompileInputs.cache
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\PRUEBA\obj\Debug\net8.0\PRUEBA.sourcelink.json
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\PRUEBA\obj\Debug\net8.0\PRUEBA.dll
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\PRUEBA\obj\Debug\net8.0\refint\PRUEBA.dll
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\PRUEBA\obj\Debug\net8.0\PRUEBA.pdb
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\PRUEBA\obj\Debug\net8.0\PRUEBA.genruntimeconfig.cache
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\PRUEBA\obj\Debug\net8.0\ref\PRUEBA.dll

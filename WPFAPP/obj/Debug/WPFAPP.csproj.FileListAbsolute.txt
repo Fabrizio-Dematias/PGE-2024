@@ -1,0 +1,15 @@
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\WPFAPP\bin\Debug\WPFAPP.exe.config
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\WPFAPP\bin\Debug\WPFAPP.exe
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\WPFAPP\bin\Debug\WPFAPP.pdb
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\WPFAPP\obj\Debug\WPFAPP.csproj.AssemblyReference.cache
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\WPFAPP\obj\Debug\MainWindow.g.cs
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\WPFAPP\obj\Debug\App.g.cs
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\WPFAPP\obj\Debug\WPFAPP_MarkupCompile.cache
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\WPFAPP\obj\Debug\WPFAPP_MarkupCompile.lref
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\WPFAPP\obj\Debug\MainWindow.baml
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\WPFAPP\obj\Debug\WPFAPP.g.resources
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\WPFAPP\obj\Debug\WPFAPP.Properties.Resources.resources
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\WPFAPP\obj\Debug\WPFAPP.csproj.GenerateResource.cache
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\WPFAPP\obj\Debug\WPFAPP.csproj.CoreCompileInputs.cache
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\WPFAPP\obj\Debug\WPFAPP.exe
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\WPFAPP\obj\Debug\WPFAPP.pdb

@@ -1,0 +1,17 @@
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\TAREA 10 EJ 3\bin\Debug\net8.0-windows\TAREA 10 EJ 3.exe
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\TAREA 10 EJ 3\bin\Debug\net8.0-windows\TAREA 10 EJ 3.deps.json
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\TAREA 10 EJ 3\bin\Debug\net8.0-windows\TAREA 10 EJ 3.runtimeconfig.json
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\TAREA 10 EJ 3\bin\Debug\net8.0-windows\TAREA 10 EJ 3.dll
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\TAREA 10 EJ 3\bin\Debug\net8.0-windows\TAREA 10 EJ 3.pdb
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\TAREA 10 EJ 3\obj\Debug\net8.0-windows\RegistroGastos.Form1.resources
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\TAREA 10 EJ 3\obj\Debug\net8.0-windows\TAREA 10 EJ 3.csproj.GenerateResource.cache
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\TAREA 10 EJ 3\obj\Debug\net8.0-windows\TAREA 10 EJ 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\TAREA 10 EJ 3\obj\Debug\net8.0-windows\TAREA 10 EJ 3.AssemblyInfoInputs.cache
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\TAREA 10 EJ 3\obj\Debug\net8.0-windows\TAREA 10 EJ 3.AssemblyInfo.cs
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\TAREA 10 EJ 3\obj\Debug\net8.0-windows\TAREA 10 EJ 3.csproj.CoreCompileInputs.cache
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\TAREA 10 EJ 3\obj\Debug\net8.0-windows\TAREA 10 EJ 3.sourcelink.json
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\TAREA 10 EJ 3\obj\Debug\net8.0-windows\TAREA 10 EJ 3.dll
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\TAREA 10 EJ 3\obj\Debug\net8.0-windows\refint\TAREA 10 EJ 3.dll
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\TAREA 10 EJ 3\obj\Debug\net8.0-windows\TAREA 10 EJ 3.pdb
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\TAREA 10 EJ 3\obj\Debug\net8.0-windows\TAREA 10 EJ 3.genruntimeconfig.cache
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\TAREA 10 EJ 3\obj\Debug\net8.0-windows\ref\TAREA 10 EJ 3.dll

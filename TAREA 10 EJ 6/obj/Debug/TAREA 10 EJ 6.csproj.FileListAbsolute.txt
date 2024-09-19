@@ -1,0 +1,14 @@
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\TAREA 10 EJ 6\bin\Debug\TAREA 10 EJ 6.exe.config
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\TAREA 10 EJ 6\bin\Debug\TAREA 10 EJ 6.exe
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\TAREA 10 EJ 6\bin\Debug\TAREA 10 EJ 6.pdb
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\TAREA 10 EJ 6\obj\Debug\TAREA 10 EJ 6.csproj.AssemblyReference.cache
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\TAREA 10 EJ 6\obj\Debug\MainWindow.baml
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\TAREA 10 EJ 6\obj\Debug\MainWindow.g.cs
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\TAREA 10 EJ 6\obj\Debug\App.g.cs
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\TAREA 10 EJ 6\obj\Debug\TAREA 10 EJ 6_MarkupCompile.cache
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\TAREA 10 EJ 6\obj\Debug\TAREA 10 EJ 6.g.resources
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\TAREA 10 EJ 6\obj\Debug\TAREA_10_EJ_6.Properties.Resources.resources
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\TAREA 10 EJ 6\obj\Debug\TAREA 10 EJ 6.csproj.GenerateResource.cache
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\TAREA 10 EJ 6\obj\Debug\TAREA 10 EJ 6.csproj.CoreCompileInputs.cache
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\TAREA 10 EJ 6\obj\Debug\TAREA 10 EJ 6.exe
+C:\Users\fabri\OneDrive\Escritorio\PGE-2024\TAREA 10 EJ 6\obj\Debug\TAREA 10 EJ 6.pdb

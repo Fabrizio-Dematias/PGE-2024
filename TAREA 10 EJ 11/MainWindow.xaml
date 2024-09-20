@@ -1,0 +1,52 @@
+﻿<Window x:Class="FoodAppDesign.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Food App Design" Height="500" Width="900">
+    <Grid>
+        <!-- Definición de Columnas y Filas del Grid -->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <!-- Barra de Categorías -->
+            <RowDefinition Height="Auto"/>
+            <!-- Contenido principal -->
+            <RowDefinition Height="*"/>
+            <!-- Mapa de ubicación -->
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <!-- Categorías y calificación -->
+            <ColumnDefinition Width="2*"/>
+            <!-- Detalles de productos -->
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Row="0" Grid.ColumnSpan="2" Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,20,0,20">
+            <Button Content="Burger" Width="120" Height="50" Margin="5" FontSize="16" Click="CategoryButton_Click"/>
+            <Button Content="Pizza" Width="120" Height="50" Margin="5" FontSize="16" Click="CategoryButton_Click"/>
+            <Button Content="Dessert" Width="120" Height="50" Margin="5" FontSize="16" Click="CategoryButton_Click"/>
+            <Button Content="French" Width="120" Height="50" Margin="5" FontSize="16" Click="CategoryButton_Click"/>
+            <Button Content="Drinks" Width="120" Height="50" Margin="5" FontSize="16" Click="CategoryButton_Click"/>
+            <Button Content="Chinese" Width="120" Height="50" Margin="5" FontSize="16" Click="CategoryButton_Click"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1" Grid.Column="0" Margin="20" VerticalAlignment="Top">
+            <TextBlock Text="Product List:" FontWeight="Bold" FontSize="16" Margin="0,0,0,10"/>
+            <ListBox x:Name="ProductListBox" SelectionChanged="ProductListBox_SelectionChanged">
+                <ListBoxItem Content="Select a Category"/>
+            </ListBox>
+        </StackPanel>
+
+        <!-- Detalles del Producto Seleccionado -->
+        <StackPanel Grid.Row="1" Grid.Column="1" Margin="20" VerticalAlignment="Top">
+            <TextBlock x:Name="ProductDetails" Text="Select a product to see details" FontSize="16" FontWeight="Bold" Margin="0,0,0,10"/>
+            <Image x:Name="ProductImage" Height="150" Width="150" Margin="10"/>
+            <TextBlock Text="Rating:" FontWeight="Bold" FontSize="16" Margin="0,10,0,5"/>
+            <StackPanel Orientation="Horizontal" x:Name="RatingPanel" HorizontalAlignment="Left" Margin="0,0,0,10">
+                <!-- Estrellas de calificación dinámicas -->
+            </StackPanel>
+            <TextBlock x:Name="AverageRatingText" Text="Average Rating: 0/5" FontWeight="Bold" FontSize="16" Margin="0,0,0,10"/>
+        </StackPanel>
+
+        <Image x:Name="MapImage" Grid.Row="1" Margin="0,139,0,26" 
+               Source="Images/map_image.png" Stretch="Uniform" HorizontalAlignment="Center" Grid.RowSpan="2"/>
+    </Grid>
+</Window>

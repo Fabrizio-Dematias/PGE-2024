@@ -45,7 +45,8 @@
               "ToolTip": "C:\\Users\\fabri\\OneDrive\\Escritorio\\PGE-2024\\TAREA 10 EJ 11\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-20T20:12:45.894Z"
+              "WhenOpened": "2024-09-20T20:12:45.894Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -56,7 +57,8 @@
               "ToolTip": "C:\\Users\\fabri\\OneDrive\\Escritorio\\PGE-2024\\TAREA 10 EJ 11\\App.xaml",
               "RelativeToolTip": "App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-20T18:35:36.452Z"
+              "WhenOpened": "2024-09-20T18:35:36.452Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -66,7 +68,7 @@
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\fabri\\OneDrive\\Escritorio\\PGE-2024\\TAREA 10 EJ 11\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAI4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAABwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-20T18:34:36.694Z",
               "EditorCaption": ""

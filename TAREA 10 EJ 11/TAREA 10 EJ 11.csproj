@@ -97,7 +97,6 @@
   <ItemGroup>
     <Resource Include="Images\dessert_image.png" />
     <Resource Include="Images\drink_image.png" />
-    <Resource Include="Images\french_image.png" />
     <Resource Include="Images\pizza_image.png" />
   </ItemGroup>
   <ItemGroup>
@@ -106,6 +105,12 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Images\map_image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="croissant_image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\croissant_image.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

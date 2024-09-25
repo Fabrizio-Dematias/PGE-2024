@@ -4,6 +4,7 @@ using System.Windows.Controls;
 using System.Windows.Media.Imaging;
 using System.Collections.Generic;
 using System.Linq;
+using Microsoft.SqlServer.Server;
 
 namespace FoodAppDesign
 {
@@ -16,7 +17,7 @@ namespace FoodAppDesign
             InitializeComponent();
         }
 
-        // Evento para actualizar la lista de productos cuando se selecciona una categoría
+        //actualizar la lista de productos cuando se selecciona una categoría
         private void CategoryButton_Click(object sender, RoutedEventArgs e)
         {
             var category = (sender as Button).Content.ToString();
@@ -46,7 +47,7 @@ namespace FoodAppDesign
                     ProductListBox.Items.Add("Fernet");
                     break;
                 case "Chinese":
-                    ProductListBox.Items.Add("Sweet and Sour Chicken");
+                    ProductListBox.Items.Add("Sushi");
                     ProductListBox.Items.Add("Fried Rice");
                     break;
             }
@@ -75,7 +76,7 @@ namespace FoodAppDesign
                     break;
                 case "Croissant":
                 case "Baguette":
-                    ProductImage.Source = new BitmapImage(new Uri("Images/french_image.png", UriKind.Relative));
+                    ProductImage.Source = new BitmapImage(new Uri("Images/croissant_image.png", UriKind.Relative));
                     break;
                 case "Soda":
                 case "Fernet":
@@ -126,7 +127,7 @@ namespace FoodAppDesign
             UpdateAverageRating(selectedProduct);
         }
 
-        // Método para actualizar el promedio de calificación
+        //actualizar el promedio de calificacion
         private void UpdateAverageRating(string product)
         {
             if (productRatings.ContainsKey(product) && productRatings[product].Count > 0)
